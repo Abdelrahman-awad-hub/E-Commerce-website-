@@ -147,7 +147,7 @@ let data = [
                 products: [
                     {
                         id: 1,
-                        image: "Shirt1.png",
+                        image: "shirt2.png",
                         name: "Shirt",
                         color: "red",
                         price: "$5,000",
@@ -161,7 +161,7 @@ let data = [
                     },
                     {
                         id: 2,
-                        image: "Shirt2.png",
+                        image: "shirt2.png",
                         name: "Shirt",
                         color: "navy blue",
                         price: "$5,000",
@@ -175,7 +175,7 @@ let data = [
                     },
                     {
                         id: 3,
-                        image: "Shirt3.png",
+                        image: "shirt3.png",
                         name: "Shirt",
                         color: "white",
                         price: "$5,250",
@@ -189,7 +189,7 @@ let data = [
                     },
                     {
                         id: 4,
-                        image: "Shirt4.png",
+                        image: "shirt4.png",
                         name: "Shirt",
                         color: "black",
                         price: "$5,250",
