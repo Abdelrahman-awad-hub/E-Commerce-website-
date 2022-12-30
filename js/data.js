@@ -147,7 +147,7 @@ let data = [
                 products: [
                     {
                         id: 1,
-                        image: "shirt2.png",
+                        image: "shirt1.png",
                         name: "Shirt",
                         color: "red",
                         price: "$5,000",
